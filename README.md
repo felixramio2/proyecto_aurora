@@ -1,2 +1,2 @@
 # proyecto_aurora
-proyecto para practicar
+proyecto para practicar muchas veces
